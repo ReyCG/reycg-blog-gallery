@@ -12,3 +12,11 @@
 | ------------------------- | ------------------------------------------------------------ |
 | query-dsl-multi-match.png | [ Multi Match Query](https://www.cnblogs.com/reycg-blog/p/10055039.html) |
 
+## encoding 目录
+
+放置编解码相关的图片
+
+| 图片名称    | 博文地址                                                     |
+| ----------- | ------------------------------------------------------------ |
+| unicode.png | [你真的了解 Unicode 和 UTF-8 吗？](https://www.cnblogs.com/reycg-blog/p/10021658.html) |
+
