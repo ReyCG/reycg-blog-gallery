@@ -8,9 +8,11 @@
 
 存放 ELK 技术栈相关图片
 
-| 图片名称                  | 博文地址                                                     |
-| ------------------------- | ------------------------------------------------------------ |
-| query-dsl-multi-match.png | [ Multi Match Query](https://www.cnblogs.com/reycg-blog/p/10055039.html) |
+| 图片名称                      | 博文地址                                                     |
+| ----------------------------- | ------------------------------------------------------------ |
+| elastic_basic.png             | [Elasticsearch 思维导图集锦](https://www.cnblogs.com/reycg-blog/p/10048815.html) |
+| full_text_search_overview.png | [Elasticsearch 思维导图集锦](https://www.cnblogs.com/reycg-blog/p/10048815.html) |
+| query-dsl-multi-match.png     | [ Multi Match Query](https://www.cnblogs.com/reycg-blog/p/10055039.html) |
 
 ## encoding 目录
 
